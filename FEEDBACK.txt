@@ -1,0 +1,28 @@
+20.9.2019
+
+Feedback:
+
+	You have to wait for the blocks to fall for too long.
+
+	You can return the bomb if you don't want to use it.
+
+	You can't move the bomb if you place it under the building (on the ground).
+
+	Explosion could be faster?
+
+	Meter for how low do you have to get the building (how destroyed?)
+	Player has no idea how the level is completed.
+
+	level 7 physics fockd up.
+
+Possible feature suggestions from testers:
+
+	you can add a timer to the bomb by dragging your finger from next to the bomb and add a burning fuse?
+	(the longer you drag it, the longer burning time you have)
+
+	You could change the look of the detonator? (for example for special event bombs)
+
+	You could swipe down the lever of the detonator yourself?
+
+
+
