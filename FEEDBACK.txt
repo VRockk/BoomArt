@@ -13,6 +13,12 @@ Feedback:
 	Meter for how low do you have to get the building (how destroyed?)
 	Player has no idea how the level is completed.
 
+	Better indicators for what do you have to do in game (if new player skip or didn't see tutorial,
+	they have no idea how the game works.)
+
+	When you drag the bomb, the bomb could be bigger? Something like that so you can see where you
+	plant the bomb.
+
 	level 7 physics fockd up.
 
 	Explosion animation should be bigger
